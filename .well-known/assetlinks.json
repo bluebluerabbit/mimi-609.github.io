@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "io.github.mimi_609.twa",
+                     "sha256_cert_fingerprints": ["58:1F:EC:4A:FF:15:E7:9F:55:23:B9:3D:C5:4F:66:A4:EC:7C:B8:84:C3:FC:FE:DF:FF:EE:BA:BB:CB:40:19:05"] }
+      }
+]
